@@ -12,7 +12,7 @@ Este proyecto es una aplicación de autenticación que utiliza React para el fro
 1. Clona el repositorio:
 
    ```
-   git clone https://github.com/amarillaRodrigo/contextSessionExerc
+   git clone https://github.com/eliastinuk/contextSessionExerc
    cd contextSessionExerc
    ```
 
